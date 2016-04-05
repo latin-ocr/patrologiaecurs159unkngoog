@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./patrologiaecurs159unkngoog_0008.png"; bbox 0 0 4142 6184; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 953 5588 1685 5742">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 953 5588 1685 5742">
+     <span class='ocr_line' id='line_1_1' title="bbox 953 5588 1685 5655; baseline -0.01 -12"><span class='ocrx_word' id='word_1_1' title='bbox 953 5592 1109 5654; x_wconf 66' lang='lat' dir='ltr'><strong>Sucmm&#39;e,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1121 5607 1150 5644; x_wconf 76' lang='lat' dir='ltr'><strong>au</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1164 5593 1404 5654; x_wconf 68' lang='lat' dir='ltr'><strong>Petit-Monlrongo‚</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1420 5592 1452 5640; x_wconf 84' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1464 5591 1635 5655; x_wconf 70' lang='lat' dir='ltr'><strong>Pimprimeuie</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1652 5588 1685 5636; x_wconf 77' lang='lat' dir='ltr'><strong>do</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1001 5676 1610 5742; baseline -0.008 -16"><span class='ocrx_word' id='word_1_7' title='bbox 1001 5678 1091 5742; x_wconf 69' lang='lat' dir='ltr'>vrayol</span> <span class='ocrx_word' id='word_1_8' title='bbox 1101 5678 1133 5728; x_wconf 80' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1146 5680 1231 5742; x_wconf 68' lang='lat' dir='ltr'>Surry,</span> <span class='ocrx_word' id='word_1_10' title='bbox 1245 5691 1290 5729; x_wconf 76' lang='lat' dir='ltr'><strong>rue</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1302 5678 1334 5728; x_wconf 78' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1346 5677 1447 5737; x_wconf 63' lang='lat' dir='ltr'><strong>Ssswres,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1460 5678 1499 5737; x_wconf 78' lang='lat'><strong>57,</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1510 5676 1610 5725; x_wconf 51' lang='lat' dir='ltr'><strong>zvaris.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2076 6180">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2076 6180">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2076 6180; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 2076 6180; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
